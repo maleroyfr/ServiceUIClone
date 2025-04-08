@@ -1,7 +1,3 @@
-Below is an example of a README.md file you can use on GitHub for your BitLocker PIN UI project:
-
----
-
 # BitLocker PIN UI
 
 A production-ready Win32 application for setting the BitLocker startup PIN on drive C:. This tool uses WMI to call BitLocker management APIs, provides robust input validation, and offers a modern-looking user interface with logging capabilities.
