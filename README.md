@@ -9,11 +9,6 @@ A production-ready Win32 application for setting the BitLocker startup PIN on dr
 
 ## Features
 
-- **Modern User Interface:**  
-  - Uses the Segoe UI font.
-  - Displays a custom icon (logo) at the top-left corner.
-  - Clean layout with headings, subheadings, and labeled PIN fields.
-
 - **Robust Input Validation:**  
   - Validates that both PIN fields are filled.
   - Ensures that the new PIN and re-type PIN match.
